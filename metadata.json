@@ -1,0 +1,6 @@
+{
+  "name": "retrobrownie - Canal Retro Gaming & Cine 80s/90s",
+  "description": "Web oficial del canal de YouTube retrobrownie: programas retrospectivos, podcasts, reportajes con entrevistas y píldoras retro de videojuegos y cine de los 80 y 90.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
